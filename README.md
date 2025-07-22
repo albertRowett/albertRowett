@@ -16,4 +16,4 @@ On my [portfolio site](https://2023-bertr.dev.io-academy.uk), where you can:
 
 ### 🚀 Now based in Copenhagen
 
-I'm actively looking for a full-stack or back-end developer role.
+I'm actively looking for a full-stack, back-end or front-end developer role.
