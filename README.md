@@ -6,13 +6,13 @@ Before transitioning into tech via a bootcamp [@iO-Academy](https://github.com/i
 
 ### 🔗 Explore my work
 
-On my [portfolio site](https://2023-bertr.dev.io-academy.uk), where you can:
+On my [portfolio site](https://albertrowett.vercel.app/), where you can:
 
-- 📖 Learn more [about me](https://2023-bertr.dev.io-academy.uk/#about)
+- 📖 Learn more [about me](https://albertrowett.vercel.app/#about)
 
-- 💻 Browse [my projects](https://2023-bertr.dev.io-academy.uk/#projects)
+- 💻 Browse [my projects](https://albertrowett.vercel.app/#projects)
 
-- 📬 Find how to [contact me](https://2023-bertr.dev.io-academy.uk/#contact)
+- 📬 Find how to [contact me](https://albertrowett.vercel.app/#contact)
 
 ### 🚀 Now based in Copenhagen
 
